@@ -20,13 +20,9 @@ if btn:
 
 # Adiciona o texto à coluna 1
 st.markdown(
-    """Este projeto em Streamlit tem como objetivo criar uma interface interativa para análise e prevenção de fraudes em cartões de crédito. A aplicação oferece um painel intuitivo com gráficos interativos e estatísticas resumidas para destacar padrões e anomalias nas transações.
+    """Este projeto em Streamlit visa criar uma interface interativa para análise e prevenção de fraudes em cartões de crédito. A aplicação proporciona um painel intuitivo com gráficos interativos para destacar padrões e anomalias nas transações.
 
-Utilizando algoritmos avançados de análise de padrões, o sistema identifica comportamentos usuais e transações fora do comum. Integração de modelos de machine learning treinados para analisar padrões históricos e prever transações potencialmente fraudulentas.
+Utilizando algoritmos avançados de análise de padrões, o sistema identifica comportamentos usuais e transações fora do comum. Integra modelos de machine learning treinados para analisar padrões históricos e prever transações potencialmente fraudulentas.
 
-O sistema emite alertas em tempo real para notificar usuários e administradores sobre transações suspeitas, permitindo uma resposta imediata. Além disso, mantém um registro detalhado de todas as transações para facilitar investigações.
-
-Configurações personalizadas permitem ajustar parâmetros de detecção de fraude conforme as necessidades específicas. A segurança é priorizada, implementando medidas robustas para proteger dados sensíveis e garantir conformidade com regulamentações de privacidade.
-
-A geração automática de relatórios analíticos fornece insights sobre tendências de fraude e a eficácia das medidas preventivas, tornando este projeto uma abordagem proativa e inovadora para a mitigação de riscos em transações financeiras."""
+Embora não emita alertas em tempo real, o sistema mantém um registro detalhado de todas as transações para facilitar investigações. Configurações personalizadas permitem ajustar parâmetros de detecção de fraude conforme as necessidades específicas. A segurança é priorizada, implementando medidas robustas para proteger dados sensíveis e garantir conformidade com regulamentações de privacidade."""
 )
