@@ -21,4 +21,4 @@ Nosso modelo analisará os dados e fornecerá insights sobre a probabilidade de 
  Prévia: 
 
  ![image](https://github.com/FilipeLiima/fraud/assets/131200594/76e2f728-c604-4f35-87fe-b92c0509fc4d)
-![image](https://github.com/FilipeLiima/fraud/assets/131200594/8eb23b25-a1bc-4d89-90fa-331578683021)
+
